@@ -681,7 +681,7 @@ input:focus-within {
  {
     .aside
     {
-        left: 270px;
+        left: -270px;
     }
     .main-content
     {
